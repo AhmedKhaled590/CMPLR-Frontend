@@ -25,6 +25,13 @@
   <img src="https://img.shields.io/github/languages/count/CMPLR-Technologies/CMPLR-Frontend" />
 </p>
 
+# My Main Contributions at CMPLR
+
+- Home Page Components (src/components/homeComponent)
+- Post Components (src/components/partials/postComponent)
+- Likes Components (src/components/likesComponent)
+- My Profile Page (src/components/MyProfileComponent)
+- Notifications (src/components/navbarComponent/containers/Notifications)
 # Overview
 
 A customizable social media platform mimiking tumblr which enables users to: post, follow blogs, chat with them and more.
